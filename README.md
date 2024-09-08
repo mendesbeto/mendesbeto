@@ -13,7 +13,8 @@
   -->
 
   <h2>About Me</h2>
-    <p>I’m Beto Mendes, a business administration graduate and data scientist. My experience spans from the corporate world, with a solid understanding of business operations, to data science, where I apply analytical methodologies and machine learning algorithms to turn data into practical solutions.</p> [View projects](https://mendesbeto.github.io/portfolio_projetos)
+    <p>I’m Beto Mendes, a business administration graduate and data scientist. My experience spans from the corporate world, with a solid understanding of business operations, to data science, where I apply analytical methodologies and machine learning algorithms to turn data into practical solutions.</p> **View projects(https://mendesbeto.github.io/portfolio_projetos)**
+    
 
 <br><br>**Contact:** bemfamily7@gmail.com or <a href="https://www.linkedin.com/in/piatobruno/"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"></a><br>
 
