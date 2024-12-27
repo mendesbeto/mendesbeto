@@ -1,4 +1,4 @@
-## Hello 👋<br> this is mendesbeto's portfolio
+## Hello 👋<br> This is mendesbeto's portfolio
 <!--
   <h1>Beto Mendes - Data Scientist and Business Administration Graduate</h1>
 
