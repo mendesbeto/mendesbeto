@@ -58,14 +58,16 @@
         <li><a href="https://github.com/mendesbeto/test-webapp-rendler">Project Repository</a></li>
     </ul>
 
-  <!--
-    <h3>2. Customer Sentiment Analysis</h3>
+
+    <h3>2. India Fome Zero </h3>
     <ul>
-        <li><strong>Description:</strong> A project focused on analyzing customer reviews using NLP techniques to identify relevant patterns and insights.</li>
-        <li><strong>Technologies:</strong> Python, NLTK, Scikit-Learn, Jupyter Notebook</li>
-        <li><a href="https://github.com/your-repository">Project Repository</a></li>
+        <li><strong>Description:</strong> The "India Fome Zero" project is an initiative aimed at combating hunger in India through innovative technological solutions.</li>
+        <li><strong>Technologies:</strong> Python, Pandas, NumPy, Matplotlib, Jupyter Notebook, Git</li>
+        <li><a href="https://github.com/mendesbeto/india_fome_zero">Project Repository</a></li>
     </ul>
 
+    
+  <!--
     <h3>3. Business Process Automation</h3>
     <ul>
         <li><strong>Description:</strong> Automation of administrative routines using Python and RPA (Robotic Process Automation) to optimize repetitive tasks.</li>
