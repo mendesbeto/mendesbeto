@@ -58,8 +58,7 @@
         <li><a href="https://github.com/mendesbeto/test-webapp-rendler">Project Repository</a></li>
     </ul>
 
-
-    <h3>2. India Fome Zero </h3>
+  <h3>2. India Fome Zero </h3>
     <ul>
         <li><strong>Description:</strong> The "India Fome Zero" project is an initiative aimed at combating hunger in India through innovative technological solutions.</li>
         <li><strong>Technologies:</strong> Python, Pandas, NumPy, Matplotlib, Jupyter Notebook, Git</li>
