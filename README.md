@@ -65,15 +65,12 @@
         <li><a href="https://github.com/mendesbeto/india_fome_zero">Project Repository</a></li>
     </ul>
 
-    
-  <!--
-    <h3>3. Business Process Automation</h3>
+   <h3>3. Ensaio de Machine Learning </h3>
     <ul>
-        <li><strong>Description:</strong> Automation of administrative routines using Python and RPA (Robotic Process Automation) to optimize repetitive tasks.</li>
-        <li><strong>Technologies:</strong> Python, Selenium, Automation Anywhere</li>
-        <li><a href="https://github.com/your-repository">Project Repository</a></li>
+        <li><strong>Description:</strong> O projeto "Ensaio de Machine Learning" tem como objetivo explorar o impacto de diferentes parâmetros no desempenho de algoritmos de Machine Learning, focando em técnicas de classificação, regressão e clusterização. Através de experimentos sistemáticos, busca-se compreender como ajustes nos parâmetros podem influenciar o balanceamento entre overfitting e underfitting, visando otimizar a performance dos modelos em diversos conjuntos de dados.</li>
+        <li><strong>Technologies:</strong> Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, Git </li>
+        <li><a href="https://github.com/mendesbeto/ensaio-machine-learning">Project Repository</a></li>
     </ul>
-    -->
 
 <!--
 **mendesbeto/mendesbeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
